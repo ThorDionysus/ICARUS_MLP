@@ -27,13 +27,6 @@ ICARUS_MLP/
 - **Operating System:** Windows 10/11 (64-bit)
 - **Note:** The program can run on CPU-only systems, but performance will be significantly slower.
 
-## 📦 Dependencies (for developers only)
-
-If you wish to run the Python source code or rebuild the executable:
-
-```bash
-pip install PyQt5 torch open3d numpy
-```
 
 ## 💡 How to Use
 
